@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+ul {
+  list-style: none;
+}
+.container_maim {
+  max-width: 600px;
+  height: 500px;
+  margin: 40px auto;
+  border-radius: 20px;
+  padding: 20px;
+  border: 1px solid #b3b3b9;
+  box-shadow: 2px 2px 2px rgb(204, 203, 203);
+}
