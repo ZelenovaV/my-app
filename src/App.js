@@ -16,7 +16,7 @@ export default function App() {
           <a
             href="https://github.com/ZelenovaV/my-app"
             target="_blank"
-            rel="noopener"
+            rel="noreferrer"
           >
             ZelenovaV
           </a>
