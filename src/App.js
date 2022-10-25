@@ -13,7 +13,11 @@ export default function App() {
       <div>
         <p>
           Open-source code by{" "}
-          <a href="https://github.com/ZelenovaV/my-app" target="_blank">
+          <a
+            href="https://github.com/ZelenovaV/my-app"
+            target="_blank"
+            rel="noopener"
+          >
             ZelenovaV
           </a>
         </p>
